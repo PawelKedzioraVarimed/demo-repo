@@ -1,3 +1,5 @@
 # Główny nagłowek
 
-Jakiś opis.
+Jakiś opis!
+
+aktualizacja repozytorium na github.com
